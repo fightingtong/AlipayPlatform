@@ -11,7 +11,7 @@ namespace AlipayPlatform.AlipayPay
     public class PayService
     {
         /// <summary>
-        /// 支付宝原生APi无密支付：建立请求，以模拟远程HTTP的POST请求方式构造并获取支付宝的处理结果
+        /// 建立请求，以模拟远程HTTP的POST请求方式构造并获取支付宝的处理结果
         /// </summary>
         /// <param name="sParaTemp">请求参数数组</param>
         /// <returns>支付宝处理结果</returns>
